@@ -58,4 +58,4 @@ This repository documents my structured learning journey in AI/ML and Embedded S
 
 ---
 
-**Success Becomes Certain, when Actions are on the mercy of Feelings!**
+**Success Becomes Certain, when Actions aren't dependant on Feelings!**
