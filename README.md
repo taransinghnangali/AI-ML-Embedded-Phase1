@@ -27,7 +27,7 @@ This repository documents my structured learning journey in AI/ML and Embedded S
 
 ---
 
-## 🚀 Projects [Will bw updated weekly]:
+## 🚀 Projects [Will be updated weekly]:
 
 ### Sub-Projects (Skill Builders)
 | # | Name | Status | Key Skills |
